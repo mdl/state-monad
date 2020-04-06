@@ -1,0 +1,22 @@
+{
+  "name": "state-monad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oterl/state-monad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oterl/state-monad/issues"
+  },
+  "homepage": "https://github.com/oterl/state-monad#readme",
+  "dependencies": {
+    "fp-ts": "^2.5.3"
+  }
+}
